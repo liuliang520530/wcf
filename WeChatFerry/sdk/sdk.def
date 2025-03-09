@@ -1,0 +1,5 @@
+﻿EXPORTS
+    WxInitSDK
+    WxInitSDKWithPid
+    WxInitSDKWithPath
+    WxDestroySDK
